@@ -1,0 +1,2 @@
+Proc content data=sashelp.cars;
+run;
